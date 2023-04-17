@@ -1,0 +1,78 @@
+body{
+    background-color: black;
+     color: white;
+     background-image: url('images files/Space\ station.jpg');
+       background-size: cover;
+}
+img{
+    width: 150px;
+     height: auto;
+     margin-bottom: 50px;
+      margin-top: 50px;
+}
+
+a{
+    text-decoration: none;
+     color: white;
+      font-family: sans-serif;
+       text-align: center;
+        margin-right: 20px;
+         font-size: larger;
+        } 
+
+a:hover{
+    color: rgb(206, 125, 19);
+}
+img.space{
+    float: right;
+     height: 700px;
+     width: 350px;
+      width: auto;
+       margin-right: 100px;
+}
+p{
+    font-family: sans-serif;
+     font-size: x-large;
+      font-weight: bold;
+       width: 480px;
+}
+
+fieldset{
+    background-color: black;
+     opacity: 0.7;
+      border: none;
+       border-radius:0px;
+        height: 900px;
+}
+
+nav{
+    text-align: center;
+     margin-bottom: 150px;
+}
+
+button{
+    background-color: rgb(206, 125, 19);
+     color: black;
+      font-family: sans-serif;
+      border: 2px solid;
+        border-radius: 10px;
+         width: 200px;
+          height: 40px;
+           font-size: large;
+            margin-top: 50px;
+}
+
+button:hover{
+    background-color: rgb(206, 125, 19);
+     color: white;
+}
+button:active{
+    border: none;
+     background-color:white;
+      color: black;
+}
+
+div.in{
+    float: right;
+     margin-top: 50px;
+}

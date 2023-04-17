@@ -1,0 +1,23 @@
+img.logo{
+    width: 200px;
+}
+h1{
+    color: rgb(206, 125, 19);
+   margin-bottom: 100px;
+}
+body{
+    background-color: black;
+     color: white;
+      font-family: sans-serif;
+}
+
+button{
+    background-color:rgb(206, 125, 19) ;
+     color: black;
+      border-radius: 10px;
+       border: 2px solid rgb(206, 125, 19);
+        width: 400px;
+         height: 100px;
+          margin-bottom: 50px;
+           margin-left: 450px;
+}
